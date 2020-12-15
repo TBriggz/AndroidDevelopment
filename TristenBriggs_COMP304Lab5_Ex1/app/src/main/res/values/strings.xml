@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_list">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_main">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_attractions">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_landmarks">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_maps">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_maps2">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_maps3">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_maps4">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_maps5">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_maps6">TristenBriggs_COMP304Lab5_Ex1</string>
+    <string name="title_activity_maps7">TristenBriggs_COMP304Lab5_Ex1</string>
+</resources>
